@@ -6,7 +6,7 @@ import Helloword from './components/Helloword'
 export default function App() {
   return (
     <View style={container}>
-      <Text style={titulo}>Hello!!!!!</Text>
+      <Text style={titulo}>Selecciona una imagen!</Text>
       <Helloword/>
       {/* <StatusBar style="auto" />       */}
   </View>
